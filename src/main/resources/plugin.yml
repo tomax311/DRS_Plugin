@@ -1,0 +1,7 @@
+name: DRS_Plugin
+version: '${project.version}'
+main: tomax311.drs_plugin.DRS_Plugin
+api-version: 1.16
+prefix: DRS_Plugin
+authors: [ Tomax311 ]
+description: A DRS system in minecraft
